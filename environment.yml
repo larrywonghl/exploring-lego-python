@@ -1,0 +1,7 @@
+name: exploring-lego-python
+channels:
+  - conda-forge
+dependencies:
+- jupyter=1.0.0
+- pandas
+- matplotlib
